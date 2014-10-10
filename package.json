@@ -1,5 +1,5 @@
 {
-  "name": "node-clarifai",
+  "name": "clarifai",
   "version": "0.0.0",
   "description": "NodeJS interface to the Clarifai API",
   "main": "index.js",
