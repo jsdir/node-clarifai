@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/jsdir/node-clarifai/issues"
   },
-  "homepage": "https://github.com/jsdir/node-clarifai"
+  "homepage": "https://github.com/jsdir/node-clarifai",
+  "dependencies": {
+    "superagent": "~0.20.0"
+  }
 }
